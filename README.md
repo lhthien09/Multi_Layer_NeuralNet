@@ -1,4 +1,11 @@
-# Deep-Learning
-This repo contains Deep Learning code. 
+# Neural Network and Hyperparameter Optimization in Neural Networks
+This repository contains code in Python for building and optimizing neural networks. The repository is organized into two folders:
 
-Lecture note: https://community.deeplearning.ai/t/dls-course-1-lecture-notes/11862
+* **Neural Network**: Contains code for building and training neural networks.
+* **Hyperparameter Optimization in Neural Networks**: Contains code for optimizing hyperparameters in neural networks.
+
+# Contributing
+If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+# License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
