@@ -4,6 +4,15 @@ This repository contains code in Python for building and optimizing neural netwo
 * **Neural Network**: Contains code for building and training neural networks.
 * **Hyperparameter Optimization in Neural Networks**: Contains code for optimizing hyperparameters in neural networks.
 
+
+# Installation
+To run the code in this folder, you will need to install the following dependencies:
+
+TensorFlow
+NumPy
+Matplotlib
+
+
 # Contributing
 If you find a bug or have a feature request, please open an issue or submit a pull request.
 
