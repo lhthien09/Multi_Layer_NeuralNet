@@ -8,10 +8,10 @@ This repository contains code in Python for building and optimizing neural netwo
 # Installation
 To run the code in this folder, you will need to install the following dependencies:
 
-TensorFlow
-NumPy
-Matplotlib
-
+* TensorFlow
+* NumPy
+* Matplotlib
+* sklearn
 
 # Contributing
 If you find a bug or have a feature request, please open an issue or submit a pull request.
